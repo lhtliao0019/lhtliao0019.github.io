@@ -194,7 +194,7 @@
         <div class="content">
             <p>大家好，我是廖海涛，一名热爱电工技术和电子技术的大学生。</p>
             <br>
-            <p>我擅长HTML/CSS/JS、Python/Java（替换成你的技能），喜欢通过技术解决实际问题，也乐于分享自己的学习心得。</p>
+            <p>我擅长电子焊接、Python，喜欢通过技术解决实际问题，也乐于分享自己的学习心得。</p>
             <br>
             <p>如果我的内容对你有帮助，欢迎随时联系我～</p>
         </div>
@@ -205,16 +205,14 @@
         <h2>我的作品</h2>
         <div class="works-grid">
             <div class="work-card">
-                <h3>作品1：XX项目</h3>
-                <p>这是我做的第一个项目，主要实现了XX功能，使用了XX技术栈，解决了XX问题。</p>
+                <h3>作品1：Python编程项目</h3>
+                <p>这是我做的第一个项目，主要实现了成绩等级核算功能，使用了Python编程的内嵌循环技术栈。</p>
             </div>
             <div class="work-card">
-                <h3>作品2：XX工具</h3>
-                <p>这是一个实用的小工具，帮助用户快速完成XX操作，已上线并被XX人使用。</p>
+                <h3>作品2：流水灯</h3>
+                <p>这是一个实用的流水灯灯具，能够实现红、黄、绿三种颜色发光二极管的流水式持续发光，目前暂未上线，属于个人使用。</p>
             </div>
             <div class="work-card">
-                <h3>作品3：XX博客</h3>
-                <p>持续更新技术博客，内容涵盖XX、XX等方向，累计阅读量XX+。</p>
             </div>
         </div>
     </section>
@@ -223,9 +221,9 @@
     <section id="contact">
         <h2>联系我</h2>
         <div class="contact-links">
-            <a href="mailto:your-email@example.com">📧 邮箱：your-email@example.com</a>
-            <a href="https://github.com/your-name" target="_blank">💻 GitHub：your-name</a>
-            <a href="javascript:void(0)">📱 微信：your-wechat</a>
+            <a href="mailto:your-email@example.com">📧 邮箱：15990423129@163.com</a>
+            <a href="https://github.com/your-name" target="_blank">💻 GitHub：17858177149</a>
+            <a href="javascript:void(0)">📱 微信：17858177149</a>
         </div>
     </section>
 
